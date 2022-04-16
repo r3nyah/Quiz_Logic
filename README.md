@@ -9,7 +9,7 @@ Cth output : 10000
 
 <details>
   <summary>No 1.</summary>
-  On progress.......xd
+  <img src="https://github.com/r3nyah/Quiz_Logic/blob/main/Assets/1.png">
 </details>
 
 # Soal-2
@@ -22,7 +22,7 @@ Cth output : Ganjil
 
 <details>
   <summary>No 2.</summary>
-  On progress.......xd
+  <img src="https://github.com/r3nyah/Quiz_Logic/blob/main/Assets/2.png">
 </details>
 
 # Soal-3
@@ -34,7 +34,7 @@ Cth input : 5<br>
 Cth output : 1 + 2 + 3 + 4 + 5 = 15
 <details>
   <summary>No 3.</summary>
-  On progress.......xd
+  <img src="https://github.com/r3nyah/Quiz_Logic/blob/main/Assets/3.png">
 </details>
 
 # Soal-4
@@ -47,7 +47,7 @@ Cth input : [4, 6, 1, 3, 5]<br>
 Cth output : [genap, genap, ganjil, ganjil, ganjil]
 <details>
   <summary>No 4.</summary>
-  On progress.......xd
+  <img src="https://github.com/r3nyah/Quiz_Logic/blob/main/Assets/4.png">
 </details>
 
 # Soal-5
@@ -60,7 +60,7 @@ Cth input : 4, 6, 1, 3, 5<br>
 Cth output : 6
 <details>
   <summary>No 5.</summary>
-  On progress.......xd
+  <img src="https://github.com/r3nyah/Quiz_Logic/blob/main/Assets/5.png">
 </details>
 
 # Soal-6
@@ -74,7 +74,7 @@ Cth input : N = 5, K = 10, array = [4, 1, 8, 7, 4]<br>
 Cth output : TIDAK BISA
 <details>
   <summary>No 6.</summary>
-  On progress.......xd
+  <img src="https://github.com/r3nyah/Quiz_Logic/blob/main/Assets/6.png">
 </details>
 
 # Soal-7
@@ -88,7 +88,7 @@ Cth input : N = 5,array = [4, 1, 8, 7, 1]<br>
 Cth output : ADA
 <details>
   <summary>No 7.</summary>
-  On progress.......xd
+  <img src="https://github.com/r3nyah/Quiz_Logic/blob/main/Assets/7.png">
 </details>
 
 # Soal-8
